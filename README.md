@@ -1,9 +1,4 @@
 # yo
 
 ## Description 
- ## links 
-"hello"
-
-## usage
-
-## content
+new project i am working on 
